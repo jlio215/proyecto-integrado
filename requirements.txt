@@ -1,13 +1,13 @@
 # Dependencias principales
-pandas==2.2.3
-numpy==1.26.4
-ydata-profiling==4.7.0
-jupyter==1.1.1
-ipython==8.12.3
-ipywidgets==8.1.5
-matplotlib==3.9.2
-seaborn==0.13.2
+pandas
+numpy
+ydata-profiling
+jupyter
+ipython
+ipywidgets
+matplotlib
+seaborn
 
 # Soporte adicional
-notebook==7.2.2
-scipy==1.13.1
+notebook
+scipy
